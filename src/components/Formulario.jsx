@@ -28,6 +28,7 @@ function Formulario() {
           <label htmlFor="sintomas" className='block text-gray-700 font-bold uppercase'>Fecha de alta</label>
           <textarea id='sintomas' className='border-2 w-full p-2 mt-2 placeholder-gray-400 rounded-md ' placeholder="describe los sintomas"/>
         </div>
+        <input type='submit' className='bg-indigo-600 w-full p-3 mt-3 text-white uppercase font-bold hover:bg-indigo-700 cursor-pointer' value='Agregar paciente'/> 
       </form>
     </div>
   )
