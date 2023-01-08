@@ -12,26 +12,18 @@ function ListadoPacientes() {
           Nombre:{''}
           <span className='font-normal normal-case'>Hook</span>
         </p>
-      </div>
-      <div className='m-3 bg-white shadow-md px-5 py-10 rounded-xl'>
         <p className='font-bold mb-3 text-gray-700 uppercase'>
           Propietario:{''}
           <span className='font-normal normal-case'>Juan</span>
         </p>
-      </div>
-      <div className='m-3 bg-white shadow-md px-5 py-10 rounded-xl'>
         <p className='font-bold mb-3 text-gray-700 uppercase'>
           E-mail:{''}
           <span className='font-normal normal-case'>pepe@gmail.com</span>
         </p>
-      </div>
-      <div className='m-3 bg-white shadow-md px-5 py-10 rounded-xl'>
         <p className='font-bold mb-3 text-gray-700 uppercase'>
           Fecha de alta:{''}
           <span className='font-normal normal-case'>10 de diciembre</span>
         </p>
-      </div>
-      <div className='m-3 bg-white shadow-md px-5 py-10 rounded-xl'>
         <p className='font-bold mb-3 text-gray-700 uppercase'>
           Sintomas:{''}
           <span className='font-normal normal-case'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, unde facere. Qui nobis laborum iusto, ea inventore doloremque modi voluptatem fugit culpa neque soluta facilis eum autem vitae aperiam corporis?</span>
